@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cache xmlns="http://geode.incubator.apache.org/schema/cache"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://geode.incubator.apache.org/schema/cache http://geode.incubator.apache.org/schema/cache/cache-1.0.xsd"
+    version="1.0">
+    <cache-server hostname-for-clients="192.168.99.100" />
+
+    <pdx read-serialized="true">
+        <pdx-serializer>
+            <class-name>
+                com.gemstone.gemfire.pdx.ReflectionBasedAutoSerializer
+            </class-name>
+        </pdx-serializer>
+    </pdx>
+    
+    <region name="Customer">
+      <region-attributes refid="PARTITION">
+          <partition-attributes redundant-copies="1" />
+      </region-attributes>
+        <index name="customerIndex">
+            <primary-key field="intValue"/>
+        </index>
+    </region>
+
+    <region name="BookMaster">
+        <region-attributes refid="REPLICATE"/>
+    </region>
+
+    <region name="BookOrder">
+        <region-attributes refid="PARTITION"/>
+    </region>
+
+    <region name="InventoryItem">
+        <region-attributes refid="REPLICATE"/>
+    </region>
+
+</cache>
