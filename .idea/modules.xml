@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customPartition.iml" filepath="$PROJECT_DIR$/.idea/modules/customPartition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customPartition_main.iml" filepath="$PROJECT_DIR$/.idea/modules/customPartition_main.iml" group="customPartition" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customPartition_test.iml" filepath="$PROJECT_DIR$/.idea/modules/customPartition_test.iml" group="customPartition" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pluralSight.iml" filepath="$PROJECT_DIR$/.idea/pluralSight.iml" />
     </modules>
   </component>

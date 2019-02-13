@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<client-cache xmlns="http://geode.apache.org/schema/cache"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://geode.apache.org/schema/cache http://geode.apache.org/schema/cache/cache-1.0.xsd"
+       version="1.0">
+    <!--<cache-server hostname-for-clients="192.168.99.100" />-->
+    <pool name="clientPool" subscription-enabled="true">
+        <locator host="localhost" port="10334" />
+    </pool>
+
+    <pdx read-serialized="true">
+        <pdx-serializer>
+            <class-name>
+                org.apache.geode.pdx.ReflectionBasedAutoSerializer
+            </class-name>
+        </pdx-serializer>
+    </pdx>
+
+    <region name="Customer" refid="PROXY">
+        <region-attributes pool-name="clientPool"></region-attributes>
+    </region>
+
+    <region name="BookMaster">
+        <region-attributes  data-policy="replicate"/>
+    </region>
+
+    <region name="BookOrder">
+        <region-attributes  data-policy="partition"/>
+    </region>
+
+    <region name="InventoryItem">
+        <region-attributes  data-policy="replicate"/>
+    </region>
+</client-cache>
