@@ -11,7 +11,7 @@ public class SortedLinkedListToBinaryTree {
         node.next.next.next=new Node(4);
         node.next.next.next.next=new Node(5);
         node.next.next.next.next.next=new Node(6);
-
+        
         int count = 0;
         Node head = node;
         while (head!=null){

@@ -2,109 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f379eb25-c0d4-4f3e-a8f1-3aef88e3f22d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_gemstone_gemfire_gemfire_8_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_github_lukehutch_fast_classpath_scanner_2_0_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__it_unimi_dsi_fastutil_7_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_dev_jna_jna_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_jopt_simple_jopt_simple_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_geode_geode_common_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_geode_geode_core_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_geode_geode_json_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_core_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_core_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jgroups_jgroups_3_6_10_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_6_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xom_xom_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_jeesuite_jeesuite_springboot_starter_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/customPartition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/customPartition_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/customPartition_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/AddLinkedListInReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Alg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/AplhanumericStringIsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ArrayLeftRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/CellNeighbors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ChocolateStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ClassPass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ClassPassExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ClosestPalindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/CombinationOfFourSumsToN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/CompressedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/CountOnesInBinaryRepresentationOfNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/EmployeeImportance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/FillMissingStringFromSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/FindIfRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/FindKthCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/HackerRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/HexadecimalConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/IceCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/LongestSubstringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/LongestSubstringWithoutRepeatingChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/MatrixRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/MaxSubsequenceInStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/NonRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/OrderTips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintArraysIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintKLargestElementsInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintMatrixInSpiral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintSubsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Pythogorean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/RemoveSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ReplaceSpaceWith20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ReverseALinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ReverseCstyleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/RotateMatrixInPlace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/StringOneInStringTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/StringSegmentationWordDictonary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/StringsOneEditAway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ThreeSubSetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/BFSnDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/BinaryTreeFromInorderPostOrderArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/BinaryTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/BinaryTreeRouteToLeafEqualsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/Binary_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/IsBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/NodeBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedArrayToBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedLinkedListToBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/ValidBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/printNodesLevelByLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/expedia/CustomSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/expedia/FourthBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/expedia/K_Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/expedia/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/reverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/snapsheet/PrintPyramidPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/snapsheet/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/xmlTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/entities/BookOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/entities/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/entities/OrderKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/expiry/GilCustomExpiry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/expiry/monitor/ExpiryMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/functions/CustomerFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/functions/HelloFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/functions/MultiGetFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/loader/GilDataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/com/gil/resolver/GilPartitionResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/mum/bitilde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/main/resources/xml/clientCache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientCache/src/test/java/ClientCacheTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/INTERVIEW_PREPS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/CombinationsOfSumsOfCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/LongestIncreasingSubSequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/build/classes/java/main/algorithms/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/build/classes/java/main/algorithms/Permutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintSubsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedLinkedListToBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedLinkedListToBinaryTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/clientCache/.gradle/" />
     <ignored path="$PROJECT_DIR$/clientCache/build/" />
@@ -169,15 +80,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="printNodesLevelByLevel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/printNodesLevelByLevel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-514">
-              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SortedArrayToBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedArrayToBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -190,8 +92,22 @@
       <file leaf-file-name="SortedLinkedListToBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedLinkedListToBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="270">
+              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationsOfSumsOfCoins.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/CombinationsOfSumsOfCoins.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -214,38 +130,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsBST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/IsBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/Permutations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+            <state relative-caret-position="201">
+              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/BinaryTreeNode.java">
+      <file leaf-file-name="PrintSubsets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintSubsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="345">
+              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeFromInorderPostOrderArrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/BinaryTreeFromInorderPostOrderArrays.java">
+      <file leaf-file-name="LongestIncreasingSubSequence.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/LongestIncreasingSubSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="261">
+              <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="INTERVIEW_PREPS.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/INTERVIEW_PREPS.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -274,6 +200,8 @@
       <find>%20</find>
       <find>add</find>
       <find>Node</find>
+      <find>can as</find>
+      <find>printSums</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -706,9 +634,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/NodeBinaryTree.java" />
-        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/BinaryTreeRouteToLeafEqualsSum.java" />
-        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/IceCream.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/BinaryTreeFromInorderPostOrderArrays.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/SortedLinkedListToBinaryTree.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/TwoSum.java" />
@@ -732,7 +657,6 @@
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/StackWithMin2.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/EmployeeImportance.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Solution.java" />
-        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintSubsets.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/reverseWords.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/StringSegmentationWordDictonary.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/mum/bitilde.java" />
@@ -753,10 +677,14 @@
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/IsBST.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/printNodesLevelByLevel.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedArrayToBinaryTree.java" />
-        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedLinkedListToBinaryTree.java" />
-        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ReverseALinkedList.java" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Node.java" />
+        <option value="$PROJECT_DIR$/clientCache/src/main/java/INTERVIEW_PREPS.md" />
         <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/Permutations.java" />
+        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedLinkedListToBinaryTree.java" />
+        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/CombinationsOfSumsOfCoins.java" />
+        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/ReverseALinkedList.java" />
+        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintSubsets.java" />
+        <option value="$PROJECT_DIR$/clientCache/src/main/java/algorithms/LongestIncreasingSubSequence.java" />
       </list>
     </option>
   </component>
@@ -797,51 +725,6 @@
             <path>
               <item name="pluralSight" type="b2602c69:ProjectViewProjectNode" />
               <item name="pluralSight" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pluralSight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pluralSight" type="462c0819:PsiDirectoryNode" />
-              <item name="clientCache" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="pluralSight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pluralSight" type="462c0819:PsiDirectoryNode" />
-              <item name="clientCache" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pluralSight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pluralSight" type="462c0819:PsiDirectoryNode" />
-              <item name="clientCache" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="pluralSight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pluralSight" type="462c0819:PsiDirectoryNode" />
-              <item name="clientCache" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pluralSight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pluralSight" type="462c0819:PsiDirectoryNode" />
-              <item name="clientCache" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pluralSight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pluralSight" type="462c0819:PsiDirectoryNode" />
-              <item name="clientCache" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="bst" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -894,7 +777,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Permutations">
+  <component name="RunManager" selected="Application.CombinationsOfSumsOfCoins">
     <configuration name="CombinationOfFourSumsToN" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.CombinationOfFourSumsToN" />
       <module name="customPartition_main" />
@@ -906,6 +789,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="CombinationsOfSumsOfCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.CombinationsOfSumsOfCoins" />
+      <module name="customPartition_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="HackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.HackerRank" />
       <module name="customPartition_main" />
@@ -913,28 +807,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithms.bst.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="K_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.expedia.K_Subsequence" />
-      <module name="customPartition_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithms.expedia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.expedia.Main" />
-      <module name="customPartition_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithms.expedia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -957,6 +829,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithms.snapsheet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PrintSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.PrintSubsets" />
+      <module name="customPartition_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1004,19 +887,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.CombinationOfFourSumsToN" />
-      <item itemvalue="Application.K_Subsequence" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.HackerRank" />
       <item itemvalue="Application.PrintPyramidPattern" />
       <item itemvalue="Application.Permutations" />
+      <item itemvalue="Application.PrintSubsets" />
+      <item itemvalue="Application.CombinationsOfSumsOfCoins" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CombinationsOfSumsOfCoins" />
+        <item itemvalue="Application.PrintSubsets" />
         <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.PrintPyramidPattern" />
         <item itemvalue="Application.HackerRank" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.K_Subsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -1049,7 +932,7 @@
       <workItem from="1545000348979" duration="8899000" />
       <workItem from="1546578976566" duration="2632000" />
       <workItem from="1548208351028" duration="598000" />
-      <workItem from="1549954888216" duration="10406000" />
+      <workItem from="1549954888216" duration="31898000" />
     </task>
     <servers />
   </component>
@@ -1086,7 +969,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="465898000" />
+    <option name="totallyTimeSpent" value="487390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -1100,9 +983,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.13980465" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28224918" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28224918" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3296582" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3296582" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25457877" />
@@ -1114,7 +997,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35832414" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26571113" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1203,12 +1086,23 @@
           <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/Permutations.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="136" />
+      <option name="time" value="140" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>prefix + s.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>nums.get(right) &lt;= nums.get(right-1)</expression-string>
         <language-id>JAVA</language-id>
@@ -1269,34 +1163,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/ClassPassExam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/ClassPass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/FillMissingStringFromSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/ReverseCstyleString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1389,6 +1255,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1396,13 +1265,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintSubsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -1438,6 +1300,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1590,6 +1455,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/ValidBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/INTERVIEW_PREPS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedArrayToBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1597,12 +1489,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/ValidBST.java">
+    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/Permutations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="201">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedLinkedListToBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/CombinationsOfSumsOfCoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1614,24 +1525,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/Node.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="208">
+          <caret line="731" column="13" selection-start-line="731" selection-start-column="13" selection-end-line="731" selection-end-column="13" />
+          <folding>
+            <element signature="e#25690#25691#0" expanded="true" />
+            <element signature="e#25742#25743#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/bst/SortedLinkedListToBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/PrintSubsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="345">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/Permutations.java">
+    <entry file="file://$PROJECT_DIR$/clientCache/src/main/java/algorithms/LongestIncreasingSubSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        <state relative-caret-position="261">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,11 +1,13 @@
 package algorithms;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class PrintSubsets {
     public static void main(String[] args){
+
+//        TreeMap<Integer, Integer> tree = new TreeMap<>();
+//
+//         int key = tree.floorKey(1);
 
         int [] arr = {1, 2, 3};
         System.out.println(Arrays.deepToString(getSubsets(arr, arr.length-1).toArray()));
